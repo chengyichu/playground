@@ -1,6 +1,4 @@
 Chapter 1 : Journey of learning GitHub rework
-first line now modified by dev2
-second line edited by dev2
 third line
 4th line
 
