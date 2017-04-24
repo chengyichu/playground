@@ -1,5 +1,5 @@
 Chapter 1 : Journey of learning GitHub rework
-first line`
+first line being modified by dev1
 second line
 third line
 4th line
